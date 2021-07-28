@@ -6,7 +6,7 @@ for (let i=0; i<songs.length; i++){
     playlist[songs[i]] = artists[i];
 }
 console.log(playlist)
-
+//không nên viết ngược 
 let reverse_playlist = {}
 for (let i=0; i<songs.length; i++){
     reverse_playlist [artists[i]] = [songs[i]];
