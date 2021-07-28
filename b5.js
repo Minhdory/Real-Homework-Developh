@@ -2,7 +2,7 @@ function IsSpecialNumber(num){
 if (num>0 && num%2 === 0){
   let uocChan = 1; uocLe = 1
   for(i=1; i<num; i++){
-    if(n%i === 0){
+    if(num%i === 0){
       if(i%2 === 0){uocChan++};
       else uocLe++
     }
