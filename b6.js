@@ -1,5 +1,5 @@
-let songs = ["Hayloft", "Vertigo", "Teenagers", "Boilermaker", "Jumpsuit", "Elephant", "Black Roller Coming", "Heathens"];
-let artists = ["Mother Mother", "Alice Merton", "My Chemical Romance", "Royal Blood", "21 Pilots", "Tame Impala", "Phillip Sayce", "21 Pilots"];
+let songs = ["Cry Baby", "NAKKA", "People Watching", "Reckless", "Hello Future", "Know me too well", "Villain", "Heather"];
+let artists = ["OFFICIAL HIGE DANDISM", "AKMU", "Conan Gray", "Madison Beer", "NCT Dream", "New Hope Club", "Stella Jang", "Conan Gray"];
 let playlist = {};
 //https://stackoverflow.com/questions/39127989/creating-a-javascript-object-from-two-arrays
 for (let i=0; i<songs.length; i++){
